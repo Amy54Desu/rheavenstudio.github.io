@@ -2,13 +2,11 @@
 sidebar_position: 1
 ---
 
-# Introduction
+# 紹介
 
-Welcome to Heaven Studio! A (WIP) Rhythm Heaven level editor made in Unity.
+Heaven Studioのドキュメントにようこそ！このツールは、Unityで作られたリズム天国リミックスメーカー「Heaven Studio」です！
 
-This documentation will help you get started with Heaven Studio! Please start with downloading the game.
-
-(The minigames section of the documentation is outdated at the moment, it'll be updated soon.)
+このドキュメントは、Heaven Studioを使うときに役立ちます。ゲームをダウンロードして開始しましょう。
 
 
 <br></br>
